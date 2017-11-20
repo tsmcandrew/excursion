@@ -26,6 +26,14 @@ h3 {
   text-align: center;
 }
 
+h4 {
+  font-family: Verdana;
+  font-size: 42px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
 footer {
   color: gray;
   font-weight: normal;
