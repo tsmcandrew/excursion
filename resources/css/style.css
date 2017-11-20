@@ -12,6 +12,13 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  color: gray;
+  font-weight: normal;
+  font-size: 21px;
+  text-align: center;
+}
+
 h3 {
   color: aquamarine;
   font-weight: normal;
@@ -19,24 +26,9 @@ h3 {
   text-align: center;
 }
 
-.bluetext {
-  color: blue;
-}
-
-.frames {
-  color: white;
-  background-color: lightcoral;
-  font-family: Helvetica;
-  font-size: 32px;
-  font-weight: bold;
-  text-align: left;
-}
-
-.paint {
-  color: white;
-  background-color: skyblue;
-  font-family: Helvetica;
-  font-size: 32px;
-  font-weight: bold;
-  text-align: left;
+footer {
+  color: gray;
+  font-weight: normal;
+  font-size: 21px;
+  text-align: right;
 }
